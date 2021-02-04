@@ -1,2 +1,6 @@
-# Gowthamreddymallidi.github.io
-This is my Website
+# Gowtham Reddy Mallidi
+## Educational Details :- 
+**College Name** :- Sri Vasavi Engineering College
+
+**Branch** :- Electronics, Communication and Technology
+
